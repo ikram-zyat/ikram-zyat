@@ -1,24 +1,31 @@
-<img src="https://www.gitskins.com/api/section/hero?username=ikramzyat7-cmyk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikramzyat7-cmyk hero visual" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1b2a,50:1b3a5c,100:3b2a6b&height=180&section=header&text=Ikram%20Zyat&fontSize=54&fontColor=38bdf8&desc=D%C3%A9veloppeuse%20Full-Stack%20%C2%B7%20Laravel%20%26%20React&descSize=18&descAlignY=68" width="100%" alt="Ikram Zyat" />
 </p>
 
-<p align="center"><b>ikramzyat7-cmyk</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+<p align="center">
+  <img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/259582373?v=4&w=140&h=140&fit=cover&mask=circle" width="120" alt="Ikram Zyat" />
+</p>
 
-<p align="center"><a href="https://github.com/ikramzyat7-cmyk">GitHub</a></p>
+<p align="center"><b>Ikram Zyat</b> · Développeuse full-stack<br/><sub>Casablanca, Maroc · Ouverte aux stages et emplois</sub></p>
+
+<p align="center">
+  <a href="https://ikram-zyat.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ikram-zyat-542a97239/">LinkedIn</a> ·
+  <a href="https://github.com/ikram-zyat">GitHub</a>
+</p>
 
 <details open>
-<summary><b>📌 Top projects</b></summary>
+<summary><b>📌 Projets</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=ikramzyat7-cmyk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikramzyat7-cmyk projects visual" />
+  <a href="https://github.com/ikram-zyat/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ikram-zyat&repo=portfolio&theme=tokyonight&hide_border=true" width="48%" /></a>
+  <a href="https://github.com/ikram-zyat/mega-gym"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ikram-zyat&repo=mega-gym&theme=tokyonight&hide_border=true" width="48%" /></a>
+  <a href="https://github.com/ikram-zyat/cactus-informatique"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ikram-zyat&repo=cactus-informatique&theme=tokyonight&hide_border=true" width="48%" /></a>
+  <a href="https://github.com/ikram-zyat/mblifestyle-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ikram-zyat&repo=mblifestyle-backend&theme=tokyonight&hide_border=true" width="48%" /></a>
+  <a href="https://github.com/ikram-zyat/mblifestyle-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ikram-zyat&repo=mblifestyle-frontend&theme=tokyonight&hide_border=true" width="48%" /></a>
 </p>
 
-[ikramzyat7-cmyk](https://github.com/ikramzyat7-cmyk/ikramzyat7-cmyk) · ★ 0
-[cactus-informatique](https://github.com/ikramzyat7-cmyk/cactus-informatique) · ★ 0
-[mega-gym](https://github.com/ikramzyat7-cmyk/mega-gym) · ★ 0
-[portfolio](https://github.com/ikramzyat7-cmyk/portfolio) · ★ 0
-[mblifestyle-backend](https://github.com/ikramzyat7-cmyk/mblifestyle-backend) · ★ 0
-[mblifestyle-frontend](https://github.com/ikramzyat7-cmyk/mblifestyle-frontend) · ★ 0
 </details>
 
 <details>
@@ -26,41 +33,37 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=ikramzyat7-cmyk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikramzyat7-cmyk stack visual" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="Stack" />
 </p>
 
 </details>
 
 <details>
-<summary><b>📊 By the numbers</b></summary>
+<summary><b>📊 En chiffres</b></summary>
 <br/>
 
-<b>6</b> public repositories, <b>0</b> stars, <b>86</b> contributions in the last year, a longest streak of <b>3</b> days and <b>0</b> followers.
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=ikramzyat7-cmyk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikramzyat7-cmyk stats visual" />
+  <img src="https://www.gitskins.com/api/section/stats?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="Statistiques" />
 </p>
 
 </details>
 
 <details>
-<summary><b>🟩 Activity</b></summary>
+<summary><b>🟩 Activité</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ikramzyat7-cmyk&theme=neon" alt="ikramzyat7-cmyk contribution activity" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ikram-zyat&theme=neon" alt="Activité" />
 </p>
 
 </details>
 
 <details>
-<summary><b>👋 Say hello</b></summary>
+<summary><b>👋 Me contacter</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=ikramzyat7-cmyk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikramzyat7-cmyk social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="Contact" />
 </p>
 
 </details>
-
-<p align="center"><sub>ikramzyat7-cmyk · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
