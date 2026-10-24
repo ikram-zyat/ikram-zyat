@@ -31,7 +31,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat stack visual" />
+  <a href="#">
+    <img src="https://www.gitskins.com/api/section/stack?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat stack visual" />
+  </a>
 </p>
 
 </details>
@@ -41,7 +43,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat stats visual" />
+  <a href="#">
+    <img src="https://www.gitskins.com/api/section/stats?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat stats visual" />
+  </a>
 </p>
 
 </details>
@@ -51,7 +55,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ikram-zyat&theme=neon" alt="ikram-zyat contribution activity" />
+  <a href="#">
+    <img src="https://www.gitskins.com/api/section/heatmap?username=ikram-zyat&theme=neon" alt="ikram-zyat contribution activity" />
+  </a>
 </p>
 
 </details>
@@ -61,7 +67,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat social visual" />
+  <a href="#">
+    <img src="https://www.gitskins.com/api/section/social?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat social visual" />
+  </a>
 </p>
 
 </details>
