@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://ikramzyat7-cmyk.github.io/portfolio/"><b>Voir mon portfolio</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/VOTRE-PROFIL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ikram-zyat-542a97239/">LinkedIn</a>
 </p>
 
 ---
