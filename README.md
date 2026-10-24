@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat hero visual" />
+  <a href="#">
+    <img src="https://www.gitskins.com/api/section/hero?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat hero visual" />
+  </a>
 </p>
 
 <p align="center"><b>Ikram Zyat</b> · Développeuse full-stack<br/><sub>Casablanca, Maroc · Ouverte aux stages et emplois</sub></p>
