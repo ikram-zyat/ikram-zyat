@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1b2a,50:1b3a5c,100:3b2a6b&height=180&section=header&text=Ikram%20Zyat&fontSize=54&fontColor=38bdf8&desc=D%C3%A9veloppeuse%20Full-Stack%20%C2%B7%20Laravel%20%26%20React&descSize=18&descAlignY=68" width="100%" alt="Ikram Zyat" />
-</p>
-
-<p align="center">
-  <img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/259582373?v=4&w=140&h=140&fit=cover&mask=circle" width="120" alt="Ikram Zyat" />
+  <img src="https://www.gitskins.com/api/section/hero?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat hero visual" />
 </p>
 
 <p align="center"><b>Ikram Zyat</b> · Développeuse full-stack<br/><sub>Casablanca, Maroc · Ouverte aux stages et emplois</sub></p>
@@ -15,7 +11,7 @@
 </p>
 
 <details open>
-<summary><b>📌 Projets</b></summary>
+<summary><b>📌 Top projects</b></summary>
 <br/>
 
 <p align="center">
@@ -33,37 +29,39 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="Stack" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat stack visual" />
 </p>
 
 </details>
 
 <details>
-<summary><b>📊 En chiffres</b></summary>
+<summary><b>📊 By the numbers</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="Statistiques" />
+  <img src="https://www.gitskins.com/api/section/stats?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat stats visual" />
 </p>
 
 </details>
 
 <details>
-<summary><b>🟩 Activité</b></summary>
+<summary><b>🟩 Activity</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ikram-zyat&theme=neon" alt="Activité" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ikram-zyat&theme=neon" alt="ikram-zyat contribution activity" />
 </p>
 
 </details>
 
 <details>
-<summary><b>👋 Me contacter</b></summary>
+<summary><b>👋 Say hello</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="Contact" />
+  <img src="https://www.gitskins.com/api/section/social?username=ikram-zyat&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F259582373%3Fu%3Def59365e42234c0c5a8f35bb283fab925b23ea5b%26v%3D4" alt="ikram-zyat social visual" />
 </p>
 
 </details>
+
+<p align="center"><sub>Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
